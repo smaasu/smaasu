@@ -13,7 +13,7 @@ I don’t just follow trends—I create them. As a **Civil Engineering student a
 - **A Problem-Solver** – Complex challenges fuel my creativity and innovation.  
 - **A Philanthropist** – True success is measured by **impact, not profit**.  
 
-🌱 **Currently Mastering:** SMAASUism – A philosophy that blends **innovation, sustainability, and transformation**.  
+🌱 **Currently Mastering:** SMAASUism – A philosophy that blends **innovation and sustainability**.  
 💡 **Looking to Collaborate On:** Projects that **shatter barriers and reshape industries**.  
 ⚡ **Fun Fact:** My ideas don’t just **break the mold**—they **invent new dimensions**.  
 
@@ -43,7 +43,7 @@ I don’t just follow trends—I create them. As a **Civil Engineering student a
 ## 🧠 Beyond the Imagination  
 
 **"Beyond the Imagination of the Super Powers. Dark Horse. Redesigning the Fundamentals from Scratch by Breaking Traditional Approach, Concepts & System."**  
-~ **SMAASU I**  
+<p align="right">~ <strong>SMAASU I</strong></p>
 
 
 
