@@ -4,7 +4,7 @@
 
 I don’t just follow trends—I create them. As a **Civil Engineering student at NED University of Engineering & Technology** and the **founder of SMAASU Corporation**, I am on a mission to **redefine the boundaries of technology, architecture, and artificial intelligence**. The world isn’t changing fast enough—so I’m accelerating the process.  
 
----
+
 
 ## 🔥 Who Am I?  
 
@@ -17,7 +17,6 @@ I don’t just follow trends—I create them. As a **Civil Engineering student a
 💡 **Looking to Collaborate On:** Projects that **shatter barriers and reshape industries**.  
 ⚡ **Fun Fact:** My ideas don’t just **break the mold**—they **invent new dimensions**.  
 
----
 
 ## 🎯 My Core Expertise  
 
@@ -28,7 +27,7 @@ I don’t just follow trends—I create them. As a **Civil Engineering student a
 🚀 **Entrepreneurship & Innovation** – Scaling ideas into **world-changing** solutions.  
 ❤️ **Philanthropy & Social Impact** – Technology with a **soul and purpose**.  
 
----
+
 
 ## 🔗 Let’s Build the Future, Together  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/smaasui/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/smaasu01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smaasu01@gmail.com) 
@@ -47,6 +46,6 @@ I don’t just follow trends—I create them. As a **Civil Engineering student a
 ~ **SMAASU I**  
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=smaasui&icon=0&color=0)](https://visitcount.itsvg.in)
 
