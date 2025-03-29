@@ -21,6 +21,6 @@ I am a **civil engineering student at NED University of Engineering & Technology
 
 🔗 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/smaasui/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/smaasui)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/smaasu)  
 
 🚀 **Let's Connect & Build the Future Together!**
